@@ -55,3 +55,27 @@ npm run dev
 
 # 5. Open your browser and go to
 http://localhost:5173
+
+💡 Future Enhancements
+🧠 Add difficulty levels (easy/medium/hard)
+
+🔊 Add sound effects for dice roll
+
+🌟 Add animation to dice image
+
+🧩 Add leaderboard to store high scores
+
+🤝 Contributing
+Feel free to fork, suggest improvements, or raise issues — contributions are welcome and appreciated!
+If you make something cool based on this, tag me – I’d love to see it.
+
+👩‍💻 Created By
+Made with ❤️ by Bhawana Gupta
+🔗 GitHub: @Bhawanagupta13
+
+"Roll it. Score it. Play it again!"
+
+⭐ Support
+If you like this project, please ⭐ the repo to support the creator and keep the motivation rolling!
+
+
