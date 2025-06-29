@@ -1,12 +1,57 @@
-# React + Vite
+# 🎲 Dice Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **single-player Dice Game** built using **React**. The player rolls a virtual dice and the total score accumulates based on the values shown. It's a great example of using state and components in a React project.
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="./public/dice-game-preview.png" width="600" alt="Dice Game Preview" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🕹️ How to Play
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Click on the **Roll Dice** button to roll the dice.
+- The number on the dice is added to your score.
+- You can keep rolling to increase your score!
+- Click on **Reset** to start over.
+
+---
+
+## ✨ Features
+
+- 🎲 Real-time dice roll simulation
+- 🔢 Dynamic score update
+- 🧹 Reset functionality
+- ⚛ React Hooks for state management
+- 💡 Simple, clean, and responsive UI
+
+---
+
+## 🛠 Tech Stack
+
+| Tech       | Description                      |
+|------------|----------------------------------|
+| ⚛ React    | UI library (Functional Components + Hooks) |
+| 🎨 CSS      | For styling and layout           |
+| 🔧 JavaScript | Game logic and interactivity     |
+| ⚡ Vite     | Fast development server and bundler |
+
+---
+
+## 📦 Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Bhawanagupta13/Dice-Game.git
+
+# 2. Navigate into the project folder
+cd Dice-Game
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+# 5. Open your browser and go to
+http://localhost:5173
